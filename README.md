@@ -1,10 +1,12 @@
 # Arsenal-prototype 
 
-## Front-end 
-
-### Ideas 
-- search bar
+## Ideas 
 - Patreon?
+- Forum?
+- Member space?
+
+## Front-end 
+- search bar
 - 
 
 ## Back-end 
