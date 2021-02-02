@@ -1,1 +1,79 @@
-[]
+[
+  state: {
+      name:'',
+      firstname:'',
+      age:'',
+      rating:'',
+      img:''
+  },
+    state: {
+      name:'',
+      firstname:'',
+      age:'',
+      rating:'',
+      img:''
+  },
+    state: {
+      name:'',
+      firstname:'',
+      age:'',
+      rating:'',
+      img:''
+  },
+    state: {
+      name:'',
+      firstname:'',
+      age:'',
+      rating:'',
+      img:''
+  },
+    state: {
+      name:'',
+      firstname:'',
+      age:'',
+      rating:'',
+      img:''
+  },
+    state: {
+      name:'',
+      firstname:'',
+      age:'',
+      rating:'',
+      img:''
+  },
+    state: {
+      name:'',
+      firstname:'',
+      age:'',
+      rating:'',
+      img:''
+  },
+    state: {
+      name:'',
+      firstname:'',
+      age:'',
+      rating:'',
+      img:''
+  },
+    state: {
+      name:'',
+      firstname:'',
+      age:'',
+      rating:'',
+      img:''
+  },
+    state: {
+      name:'',
+      firstname:'',
+      age:'',
+      rating:'',
+      img:''
+  },
+    state: {
+      name:'',
+      firstname:'',
+      age:'',
+      rating:'',
+      img:''
+  },
+]
