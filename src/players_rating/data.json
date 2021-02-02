@@ -1,16 +1,16 @@
 [
-  "state": {
-      "name":'',
-      "firstname":'',
-      "age":'',
-      "rating":'',
-      "img":''
+  {
+    "name":"",
+    "firstname":"",
+    "age":"",
+    "rating":"",
+    "img":""
   },
-  "state": {
-      "name":'',
-      "firstname":'',
-      "age":'',
-      "rating":'',
-      "img":''
+  {
+    "name":"",
+    "firstname":"",
+    "age":"",
+    "rating":"",
+    "img":""
   }
 ]
