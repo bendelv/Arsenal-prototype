@@ -3,12 +3,16 @@
     "title":"",
     "description":"",
     "body":"",
-    "img":""
+    "img":"",
+    "date":"",
+    "id":"0"
    },
    {
     "title":"",
     "description":"",
     "body":"",
-    "img":""
+    "img":"",
+    "date":"",
+    "id":"1"
    }
 ]
