@@ -1,4 +1,5 @@
-# Arsenal-prototype 
+# Arsenal-website storage
+Experimentation of simple non critical data storage on github for blog articles.
 
 ## Ideas 
 - Patreon
